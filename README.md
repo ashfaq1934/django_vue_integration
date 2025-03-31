@@ -8,7 +8,7 @@
  $ source /venv/bin/activate
  $ pip install -r requirements.txt
  ```
- - Install npm packages. Go to 'frontend/' directory.
+ - Install npm packages. Go to `frontend/` directory.
   ```
  $ npm install
  ```
@@ -18,7 +18,7 @@
  $ python manage.py runserver
  ```
 - Django app should now be running. You should now compile the Vue JS app.
-- Go to 'frontend/' directory and run:
+- Go to `frontend/` directory and run:
  ```
  $ npm run serve
  ```
